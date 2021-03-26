@@ -7,7 +7,7 @@ version: 2.5.0
 dependencies:
   flutter:
     sdk: flutter
-  flutter_cache_manager: ^2.1.0
+  flutter_cache_manager: ^3.0.0-nullsafety.2
   octo_image: ^0.3.0
 
 dev_dependencies:
@@ -15,7 +15,7 @@ dev_dependencies:
     sdk: flutter
   mocktail: ^0.0.1-0
   pedantic: ^1.9.0
-  file: ^5.2.1
+  file: ^6.1.0
 
 environment:
   flutter: ">=1.20.0 <2.0.0"
